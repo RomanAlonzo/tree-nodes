@@ -1,0 +1,13 @@
+1. Roman Alonzo
+2. There are currently 5 errors that I have in my code, four of which come from the BuildTree method from the use of my MultiKeyMap variable "distance", 
+where things get messy when I try to use math and type conversion on spots which require using distance. The other error is on the method
+findTreeNodeByLabel, where I try to call descendents from the method, but since its static that can't happen. I've been confused about this one,
+because to find a label you need to pass in a node, but the static nature prevents such outreach.
+3. I think loadSpeciesFile has the potential to be time ineficient, since I have so many loops going on it's possible something gets hung up for a bit.
+I think toTreeString has the potential to be space innefficient if my dot counters are off and it prints way too many periods.
+4. BuildTree was definately the most challenging, the pdf didn't offer much good direction so I had to call my friends to talk through some processes 
+and get help from mentors to get it going. Also loadSpeciesFile took me way longer than I thought it would, that was definately the next hardest part.
+toString took me a while to get solid progress on because I kept running into roadblocks.
+5. For testing, I had my friend help me setup Intellij to have Program2 as its configuration, so when I ran my PhyloTree.java it would give me results.
+I also made a text file called test1 that had the directory location to the sample output so I could do comparisons.
+6. I heard previous years did this in groups! Oh well who needs friends anyway. 

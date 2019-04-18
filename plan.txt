@@ -1,0 +1,3 @@
+1)	I'll be making and sorting a phylogenetic tree, which is a diagram of the evolutionary relationships between ancestrally connected species. It will be constructed using pairwise distances between the sequences for each species, and an agglomerative clustering algorithm, using the class PhyloTree, with pre and post conditions for each method.  The driver program will be used to debug.
+2)	2) Building the constructor looks like it could take some time. When Bradley and I were working on assignment 1, I think it took us a couple hours to do that one process, so I’m going to set aside enough time to complete it.
+3)	The MultiKeyMap file, Khan Academy has some interesting stuff on phylogenetic trees, and you over email.
